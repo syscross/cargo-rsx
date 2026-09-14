@@ -1,0 +1,18 @@
+
+[package]
+name = "cargo-rsx"
+version = "0.1.0"
+edition = "2024"
+default-run = "cargo-rsx"
+
+[[bin]]
+name = "cargo-rsx"
+path = "src/bin/_.rs"
+
+[lib]
+name = "lib"
+path = "src/lib/_.rs"
+
+[dependencies]
+regex = "1"
+fancy-regex = "0.19"
