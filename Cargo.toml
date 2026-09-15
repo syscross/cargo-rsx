@@ -1,12 +1,12 @@
 
 [package]
-name = "cargo-rsx"
+name = "rsx"
 version = "0.1.0"
 edition = "2024"
 default-run = "cargo-rsx"
 
 [[bin]]
-name = "cargo-rsx"
+name = "rsx"
 path = "src/bin/_.rs"
 
 [lib]

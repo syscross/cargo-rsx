@@ -1,4 +1,5 @@
-# cargo-rsx
+
+# RSX
 
 **Rust Extended.** A thin layer on top of Rust that lets you write
 initialization in a more C++-like order, then rewrites it into real,
